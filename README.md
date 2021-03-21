@@ -15,3 +15,5 @@ python gnn.py --embedding_or_feature_type xavier_multifeature
 ```
 
 ## Reference Performance
+
+<img src='https://user-images.githubusercontent.com/47932450/111916982-d454de00-8a3a-11eb-8019-dcd860ac33c9.png'/>
