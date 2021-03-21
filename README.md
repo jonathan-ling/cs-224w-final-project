@@ -14,6 +14,12 @@ python gnn.py --embedding_or_feature_type he
 python gnn.py --embedding_or_feature_type xavier_multifeature
 ```
 
+## Framework
+
+<img src='https://user-images.githubusercontent.com/47932450/111917049-25fd6880-8a3b-11eb-9d9b-cdeaf86b74ad.png'/>
+<em>Initializing embeddings and node features using various randomization methods and node characteristics respectively</em>
+
+
 ## Reference Performance
 
 <img src='https://user-images.githubusercontent.com/47932450/111916982-d454de00-8a3a-11eb-8019-dcd860ac33c9.png'/>
