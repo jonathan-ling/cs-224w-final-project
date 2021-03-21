@@ -246,7 +246,7 @@ def main():
     parser.add_argument('--runs', type=int, default=10)
     parser.add_argument('--embedding_or_feature_type', type=str, default='xavier')
     # embedding_or_feature_type values:
-    # 'xavier','he','uniform','hops','cycles','subgraphs','hops_cycles_subgraphs'
+    # 'xavier','he','uniform','hops','cycles','subgraphs','multifeature','xavier_multifeature'
     args = parser.parse_args(args=[]) ### Added 'args=[]' so that it can run on Google Collab
     print(args)
 
